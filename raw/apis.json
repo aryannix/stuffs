@@ -1,3 +1,7 @@
 {
-  "N1X": "https://apis-toop.onrender.com/aryan"
+  "api": "https://apis-toop.onrender.com/aryan",
+  "goatstore": "https://goatstore.vercel.app",
+  "album": "",
+  "random": "",
+  "baby": "https://nix-baby-apis.vercel.app"
 }
