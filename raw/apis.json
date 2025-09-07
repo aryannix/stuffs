@@ -3,5 +3,6 @@
   "goatstore": "https://goatstore.vercel.app",
   "album": "",
   "random": "",
-  "baby": "https://nix-baby-apis.vercel.app"
+  "baby": "https://nix-baby-apis.vercel.app",
+  "cdn": "https://cdn-pro.onrender.com"
 }
