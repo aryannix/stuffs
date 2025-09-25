@@ -1,10 +1,11 @@
 {
-  "api": "http://65.109.80.126:20409/aryan",
+  "main": "http://65.109.80.126:20409/aryan",
   "goatstore": "https://goatstore.vercel.app",
   "gist": "https://nix-gist.vercel.app",
   "save": "http://46.202.82.69:1373",
   "album": "https://nix-album-api.vercel.app",
   "random": "https://nix-random-api.vercel.app",
   "baby": "https://nix-baby-apis.vercel.app",
-  "cdn": "http://46.202.82.69:1398"
+  "cdn": "http://46.202.82.69:1398",
+  "youtube": "http://65.109.80.126:20409/aryan/ytbv3"
 }
