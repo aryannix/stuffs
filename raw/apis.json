@@ -1,6 +1,7 @@
 {
   "api": "http://65.109.80.126:20409/aryan",
   "goatstore": "https://goatstore.vercel.app",
+  "gist": "https://nix-gist.vercel.app",
   "save": "http://46.202.82.69:1373",
   "album": "https://nix-album-api.vercel.app",
   "random": "https://nix-random-api.vercel.app",
