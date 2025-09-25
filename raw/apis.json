@@ -1,8 +1,9 @@
 {
-  "api": "https://apis-toop.vercel.app/aryan",
+  "api": "http://65.109.80.126:20409/aryan",
   "goatstore": "https://goatstore.vercel.app",
-  "album": "",
-  "random": "",
+  "save": "http://46.202.82.69:1373",
+  "album": "https://nix-album-api.vercel.app",
+  "random": "https://nix-random-api.vercel.app",
   "baby": "https://nix-baby-apis.vercel.app",
-  "cdn": "https://cdn-pro.onrender.com"
+  "cdn": "http://46.202.82.69:1398"
 }
