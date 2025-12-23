@@ -105,6 +105,28 @@
 
 <br/>
 
+<table width="100%">
+  <tr>
+    <td align="center" style="background-color: #0d1117; border-radius: 15px; border: 2px solid #30363d; padding: 30px;">
+    <img src="https://files.catbox.moe/rutfos.jpeg" width="110" 
+     style="border-radius: 50%; border: 3px solid #22d3ee;" />
+    <h2 style="margin-top: 15px;">TanJil Hasan</h2>
+    <p style="color: #8b949e;">Hi, I’m TanJil Hasan.I work with JavaScript and specialize in building and managing APIs I enjoy creating structured, efficient backend logic and reliable server-side solutions.My focus is on clean code, performance, and well-organized systems that are easy to maintain and scale.I aim to deliver modern, simple, and effective solutions through my work.
+</p>
+<a href="https://github.com/tanjil-420">
+  <img src="https://img.icons8.com/material-outlined/24/ffffff/github.png" width="20"/>
+</a> &nbsp;
+<a href="https://www.facebook.com/4x.tanjil">
+  <img src="https://img.icons8.com/color/24/000000/facebook-new.png" width="20"/>
+</a> &nbsp;
+<a href="mailto:tanjilhasan552897@gmail.com">
+  <img src="https://img.icons8.com/color/24/000000/gmail-new.png" width="20"/>
+</td>
+  </tr>
+</table>
+
+<br/>
+
 ---
 
 ## Team Projects
