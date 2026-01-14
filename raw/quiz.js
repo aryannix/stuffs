@@ -334,7 +334,8 @@ module.exports = {
         questionId: question._id,
         startTime: Date.now(),
         isDailyChallenge: true,
-        bonusReward: reward
+        bonusReward: reward,
+        api
       });
 
       setTimeout(() => {
@@ -367,7 +368,8 @@ module.exports = {
         reacted: false,
         reward: 10000,
         questionId: _id,
-        startTime: Date.now()
+        startTime: Date.now(),
+        api
       });
 
       setTimeout(() => {
@@ -407,7 +409,8 @@ module.exports = {
         questionId: _id,
         startTime: Date.now(),
         isFlag: true,
-        reward: this.envConfig.flagReward || 10000
+        reward: this.envConfig?.flagReward || 10000,
+        api
       });
 
       setTimeout(() => {
@@ -447,7 +450,8 @@ module.exports = {
         questionId: _id,
         startTime: Date.now(),
         isAnime: true,
-        reward: this.envConfig.animeReward || 15000
+        reward: this.envConfig?.animeReward || 15000,
+        api
       });
       setTimeout(() => {
         const r = global.GoatBot.onReply.get(info.messageID);
@@ -503,7 +507,8 @@ module.exports = {
         questionId: _id,
         startTime: Date.now(),
         difficulty,
-        category: qCategory
+        category: qCategory,
+        api
       });
       setTimeout(() => {
         const r = global.GoatBot.onReply.get(info.messageID);
