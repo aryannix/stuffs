@@ -1,6 +1,6 @@
 {
   "api": "https://nix-apihub.vercel.app/aryan",
-  "nixtube": "https://nixsing.vercel.app/ytdl",
+  "nixtube": "http://103.187.23.122:4030/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
   "main": "https://nixupscale.vercel.app",
