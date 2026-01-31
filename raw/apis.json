@@ -1,6 +1,6 @@
 {
   "api": "http://103.187.23.122:4030/aryan",
-  "nixtube": "http://103.187.23.122:4030/ytdl",
+  "nixtube": "http://103.187.23.122:4030/aryan/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
   "main": "https://nixupscale.vercel.app",
