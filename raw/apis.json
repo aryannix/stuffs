@@ -1,5 +1,5 @@
 {
-  "api": "http://103.187.23.122:4030/aryan",
+  "api": "http://193.149.164.205:1875/aryan",
   "nixtube": "http://103.187.23.122:4030/aryan/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
