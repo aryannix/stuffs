@@ -1,6 +1,6 @@
 {
-  "api": "http://193.149.164.205:1875/aryan",
-  "nixtube": "http://193.149.164.205:1875/aryan/ytdl",
+  "api": "https://ai-powerd-five.vercel.app/aryan",
+  "nixtube": "https://ai-powerd-five.vercel.app/aryan/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
   "main": "https://nixupscale.vercel.app",
