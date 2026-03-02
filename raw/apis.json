@@ -1,6 +1,6 @@
 {
-  "api": "https://ai-powerd-five.vercel.app/aryan",
-  "nixtube": "https://ai-powerd-five.vercel.app/aryan/ytdl",
+  "api": "https://api.nixhost.top/aryan",
+  "nixtube": "https://api.nixhost.top/aryan/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
   "main": "https://nixupscale.vercel.app",
