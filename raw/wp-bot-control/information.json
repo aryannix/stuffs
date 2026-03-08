@@ -1,0 +1,28 @@
+{
+  "Uids": {
+    "60405074407566"
+  },
+  "ownerInfo": {
+    "operator": "Aryan Rayhan",
+    "facebook": "https://fb.com/100001611578438",
+    "telegram": "t.me/@aryannix",
+    "whatsapp": "wa.me/+8801903910486",
+    "instagram": "https://ig.com/aryan_rayhan_07"
+  },
+  "botBan": {
+    "id": ""
+  },
+  "notification": {
+    "Hello Im Aryan Rayhan, You are now running a powerful WhatsApp bot 😙"
+  },
+  "groupBan": {
+    "id": "",
+    "name": "",
+    "reason": ""
+  },
+  "userBan": {
+    "id": "",
+    "name": "",
+    "reason": ""
+  }
+}
