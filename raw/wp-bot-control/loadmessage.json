@@ -1,1 +1,27 @@
-
+{
+  "console": {
+    "line": "─────────────────────────────────────────────",
+    "loadingCommands": "LOADING COMMANDS",
+    "loadingEvents": "LOADING EVENTS",
+    "commandOk": "[COMMAND] ✓",
+    "commandFail": "[COMMAND] ✗",
+    "eventOk": "[EVENT] ✓",
+    "eventFail": "[EVENT] ✗",
+    "botInfo": "BOT INFO",
+    "adminInfo": "ADMIN INFO",
+    "sessionExpired": "SESSION EXPIRED",
+    "sessionExpiredMsg": "Your session has expired or been logged out.",
+    "sessionFix1": "1. Get a new session from your WhatsApp number",
+    "sessionFix2": "2. Replace the creds.json file in the session/ folder",
+    "sessionFix3": "3. Restart the bot",
+    "connectionLost": "Connection lost",
+    "reconnecting": "Reconnecting...",
+    "msgName": "Name:",
+    "msgId": "ID:",
+    "msgGroupId": "Group ID:",
+    "msgUserId": "User ID:",
+    "msgDate": "Date:",
+    "msgMessage": "Message:"
+  },
+  "notification": "{botName} Connected Successfully ✅\n\nBot: {botNumber}\nOwner: {adminName}\nPrefix: {prefix}\nCommands: {commands}\nStatus: Online\nTime: {time}\nSupport: {support}"
+}
