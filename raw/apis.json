@@ -1,5 +1,5 @@
 {
-  "api": "https://api.nixhost.top/aryan",
+  "api": "https://apis-stores.vercel.app/aryan",
   "nixtube": "https://api.nixhost.top/aryan/ytdl",
   "cy": "https://nix-cloudinary.vercel.app",
   "baby": "https://baby-apisx.vercel.app",
