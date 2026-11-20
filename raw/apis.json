@@ -1,11 +1,3 @@
 {
-  "api": "https://apis-stores.vercel.app/aryan",
-  "nixtube": "https://apis-stores.vercel.app/aryan/ytdl",
-  "cy": "https://nix-cloudinary.vercel.app",
-  "baby": "https://baby-apisx.vercel.app",
-  "main": "https://nixupscale.vercel.app",
-  "alldl": "https://aryan-video-downloader.vercel.app",
-  "ok": "https://nix-ffpp.onrender.com",
-  "monitor": "https://monitor-nix.vercel.app",
-  "fb_token": "6628568379%7Cc1e620fa708a1d5696fb991c1bde5662"
+  "api": "https://www.apis-store.my.id/aryan"
 }
